@@ -1,0 +1,2 @@
+SolutionA ← ⌈´+´¨
+SolutionB ← +´3↑·∨+´¨
