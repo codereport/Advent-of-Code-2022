@@ -1,4 +1,11 @@
 # <p align="center">Advent of Code 2022</p>
+### Video Solutions by Me
+
+|Day|Languages|Link|
+|:-:|:-:|:-:|
+|1|APL & BQN|[Advent of Code 2022 in APL & BQN Day 1!](https://www.youtube.com/watch?v=27Eeys7rLSc)|
+|2| - | no video|
+|3| APL | coming |
 
 ### Other Array Language AoC Solutions
 
