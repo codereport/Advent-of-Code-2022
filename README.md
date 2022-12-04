@@ -5,7 +5,7 @@
 |:-:|:-:|:-:|
 |1|APL & BQN|[Advent of Code 2022 in APL & BQN Day 1!](https://www.youtube.com/watch?v=27Eeys7rLSc)|
 |2| - | no video|
-|3| APL | coming |
+|3| APL | [Advent of Code 2022 in APL & BQN Day 3!](https://youtu.be/p0bg5M_R2aQ) |
 
 ### Other Array Language AoC Solutions
 
