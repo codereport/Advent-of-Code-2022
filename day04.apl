@@ -5,7 +5,7 @@ overlap ← {
    ((a≤c)∧b≥d)∨(a≥c)∧b≤d
 }
 
-overlap2←{
+overlap2 ← {
    (a b c d) ← ⍵
    r ← ¯1∘+⍤⊣↓⍳⍤⊢
  ⍝ r ← {(¯1+⍺)↓⍳⍵}
