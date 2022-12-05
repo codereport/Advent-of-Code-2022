@@ -7,7 +7,7 @@
 |2| APL | no video|
 |3| APL | [Advent of Code 2022 in APL & BQN Day 3!](https://youtu.be/p0bg5M_R2aQ) |
 |4| APL | coming |
-|5| - | no video |
+|5| Python | no video |
 
 ### Other Array Language AoC Solutions
 
