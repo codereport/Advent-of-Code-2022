@@ -3,8 +3,7 @@ from collections import defaultdict
 stacks = defaultdict(list)
 
 with open('data/05.txt') as f:
-    lines = f.readlines()
-    for line in lines:
+    for line in f.readlines():
         if '[' in line:
             for i, c in enumerate(line):
                 if c.isalpha():
