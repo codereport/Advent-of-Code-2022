@@ -2,10 +2,6 @@ from collections import defaultdict
 
 stacks = defaultdict(list)
 
-def print_stack():
-    for i in range(1, len(stacks) + 1):
-        print(stacks[i])
-
 with open('data/05.txt') as f:
     lines = f.readlines()
     for line in lines:
