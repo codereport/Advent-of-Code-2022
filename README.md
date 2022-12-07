@@ -8,8 +8,8 @@
 |   3   |    APL    | [Advent of Code 2022 in APL & BQN Day 3!](https://youtu.be/p0bg5M_R2aQ) |
 |   4   |    APL    |    [Advent of Code 2022 in APL Day 4!](https://youtu.be/eEbcQrn9e0g)    |
 |   5   |  Python   |                                no video                                 |
-|   6   | APL & BQN |                                 coming                                  |
-|   7   |    -      |                     90% parsing problem - not doing                     |
+|   6   | APL & BQN | [Advent of Code 2022 in APL & BQN Day 6!](https://youtu.be/A-sUyER70gk) |
+|   7   |     -     |                     90% parsing problem - not doing                     |
 
 ### Other Array Language AoC Solutions
 
