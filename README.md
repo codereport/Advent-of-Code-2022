@@ -10,6 +10,7 @@
 |   5   |  Python   |                                no video                                 |
 |   6   | APL & BQN | [Advent of Code 2022 in APL & BQN Day 6!](https://youtu.be/A-sUyER70gk) |
 |   7   |     -     |                     90% parsing problem - not doing                     |
+|  8A   |    BQN    |                             probably a video                            |
 
 ### Other Array Language AoC Solutions
 
