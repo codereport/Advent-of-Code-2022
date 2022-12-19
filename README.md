@@ -13,6 +13,7 @@
 |  8A   |    BQN    |                             probably a video                            |
 |  8B   |     ?     |                                TODO                                     |
 |   9   |     -     |                           not doing                                     |
+|  10   |     -     |                     went on vacation, end of solutions for this year    |
 
 ### Other Array Language AoC Solutions
 
