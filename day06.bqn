@@ -1,3 +1,6 @@
+# For up to date code:
+# https://github.com/codereport/bqn-code/blob/main/aoc/2022/day06.bqn
+
 # Get Data
 data ← ⊑•file.Lines "data/06.txt"
 
