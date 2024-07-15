@@ -1,8 +1,12 @@
+# Get Data
+data ← ⊑•file.Lines "data/06.txt"
+
 # My original solution
 Solution ← {𝕨+⊑/(𝕨=≠∘⍷)¨<˘𝕨↕𝕩}
 
 # Refactored after looking at Jay Foad's
-Solution ← {⊑𝕨+𝕨⊐˜≠∘⍷˘𝕨↕𝕩}
+Solution2 ← {⊑𝕨+𝕨⊐˜≠∘⍷˘𝕨↕𝕩}
 
- 4 Solution data
-14 Solution data
+# Tests
+•Show  4 Solution data
+•Show 14 Solution data
