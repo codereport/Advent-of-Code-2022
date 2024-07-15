@@ -5,7 +5,7 @@
 | :---: | :-------: | :---------------------------------------------------------------------: |
 |   1   | APL & BQN | [Advent of Code 2022 in APL & BQN Day 1!](https://youtu.be/27Eeys7rLSc) |
 |   2   |    APL    |                                no video                                 |
-|   3   |    APL    | [Advent of Code 2022 in APL & BQN Day 3!](https://youtu.be/p0bg5M_R2aQ) |
+|   3   | APL & BQN | [Advent of Code 2022 in APL & BQN Day 3!](https://youtu.be/p0bg5M_R2aQ) |
 |   4   |    APL    |    [Advent of Code 2022 in APL Day 4!](https://youtu.be/eEbcQrn9e0g)    |
 |   5   |  Python   |                                no video                                 |
 |   6   | APL & BQN | [Advent of Code 2022 in APL & BQN Day 6!](https://youtu.be/A-sUyER70gk) |
